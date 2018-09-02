@@ -25,8 +25,8 @@ INSERT INTO vendedor (nome) VALUES
 ('Soned');
 
 INSERT INTO venda (quantidade, produtoVendido, vendedorId) VALUES 
-(10, 'resistor', 2),
-(3, 'capacitor', 4),
-(4, 'resistor', 3),
-(12, 'resistor', 1),
-(15, 'capacitor', 5);
+(10, 'Resistor', 2),
+(3, 'Capacitor', 4),
+(4, 'Resistor', 3),
+(12, 'Resistor', 1),
+(15, 'Capacitor', 5);
